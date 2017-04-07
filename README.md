@@ -1,4 +1,4 @@
-REACT NATIVE BOILERPLATE
+REACT NATIVE BOILERPLATE (fork from [Michaël Villeneuve](https://github.com/Michaelvilleneuve))
 ===
 
 Because I couldn't find any correct and lightweight boilerplate to start with React Native, I decided to build a minimal app that contains all the required libraries to correctly start a project.
@@ -14,6 +14,9 @@ Because I couldn't find any correct and lightweight boilerplate to start with Re
 - React-native-router-flux (To manage routing within the app 🛣) https://github.com/aksonov/react-native-router-flux
 - NativeBase (To have basic cross platform components, and icon fonts 👏👍) http://nativebase.io
 - ESLint (To make developers code better and unified JS) http://eslint.org/
+- Immutable https://github.com/facebook/immutable-js/
+- Ramda https://github.com/ramda/ramda
+- monet.js https://github.com/cwmyers/monet.js
 
 ## Default Components and code
 
